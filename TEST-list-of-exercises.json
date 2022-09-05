@@ -1,0 +1,330 @@
+[
+  {
+    "bodyPart": "upper legs",
+    "equipment": "leverage machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0597.gif",
+    "id": "0597",
+    "name": "lever seated hip abduction",
+    "target": "abductors"
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2312.gif",
+    "id": "2312",
+    "name": "lying elbow to knee",
+    "target": "abs"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3667.gif",
+    "id": "3667",
+    "name": "side lying hip adduction (male)",
+    "target": "adductors"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "smith machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1683.gif",
+    "id": "1683",
+    "name": "smith machine bicep curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "lower legs",
+    "equipment": "smith machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1394.gif",
+    "id": "1394",
+    "name": "smith reverse calf raises",
+    "target": "calves"
+  },
+  {
+    "bodyPart": "cardio",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3223.gif",
+    "id": "3223",
+    "name": "star jump (male)",
+    "target": "cardiovascular system"
+  },
+  {
+    "bodyPart": "shoulders",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0834.gif",
+    "id": "0834",
+    "name": "weighted front raise",
+    "target": "delts"
+  },
+  {
+    "bodyPart": "lower arms",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0854.gif",
+    "id": "0854",
+    "name": "weighted standing hand squeeze",
+    "target": "forearms"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "weighted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3642.gif",
+    "id": "3642",
+    "name": "weighted stretch lunge",
+    "target": "glutes"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1604.gif",
+    "id": "1604",
+    "name": "world greatest stretch",
+    "target": "hamstrings"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "cable",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0007.gif",
+    "id": "0007",
+    "name": "alternate lateral pulldown",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "neck",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1403.gif",
+    "id": "1403",
+    "name": "neck side stretch",
+    "target": "levator scapulae"
+  },
+  {
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1306.gif",
+    "id": "1306",
+    "name": "plyo push up",
+    "target": "pectorals"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3552.gif",
+    "id": "3552",
+    "name": "quick feet v. 2",
+    "target": "quads"
+  },
+  {
+    "bodyPart": "chest",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3021.gif",
+    "id": "3021",
+    "name": "scapula push-up",
+    "target": "serratus anterior"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "body weight",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1362.gif",
+    "id": "1362",
+    "name": "sphinx",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1018.gif",
+    "id": "1018",
+    "name": "band shrug",
+    "target": "traps"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0998.gif",
+    "id": "0998",
+    "name": "band side triceps extension",
+    "target": "triceps"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0027.gif",
+    "id": "0027",
+    "name": "barbell bent over row",
+    "target": "upper back"
+  },
+  {
+    "bodyPart": "chest",
+    "equipment": "assisted",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1259.gif",
+    "id": "1259",
+    "name": "behind head chest stretch",
+    "target": "pectorals"
+  },
+  {
+    "bodyPart": "chest",
+    "equipment": "bosu ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1307.gif",
+    "id": "1307",
+    "name": "push up on bosu ball",
+    "target": "pectorals"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "dumbbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0660.gif",
+    "id": "0660",
+    "name": "push-up close-grip off dumbbell",
+    "target": "triceps"
+  },
+  {
+    "bodyPart": "cardio",
+    "equipment": "elliptical machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2141.gif",
+    "id": "2141",
+    "name": "walk elliptical cross trainer",
+    "target": "cardiovascular system"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "ez barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1747.gif",
+    "id": "1747",
+    "name": "ez bar french press on exercise ball",
+    "target": "triceps"
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "hammer",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1496.gif",
+    "id": "1496",
+    "name": "sledge hammer",
+    "target": "abs"
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "kettlebell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0517.gif",
+    "id": "0517",
+    "name": "kettlebell advanced windmill",
+    "target": "abs"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "medicine ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1353.gif",
+    "id": "1353",
+    "name": "medicine ball catch and overhead throw",
+    "target": "lats"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "olympic barbell",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0636.gif",
+    "id": "0636",
+    "name": "olympic barbell hammer curl",
+    "target": "biceps"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "resistance band",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/3236.gif",
+    "id": "3236",
+    "name": "resistance band hip thrusts on knees (female)",
+    "target": "glutes"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "roller",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2208.gif",
+    "id": "2208",
+    "name": "roller back stretch",
+    "target": "spine"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "rope",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0680.gif",
+    "id": "0680",
+    "name": "rope climb",
+    "target": "upper back"
+  },
+  {
+    "bodyPart": "upper arms",
+    "equipment": "skierg machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2142.gif",
+    "id": "2142",
+    "name": "ski ergometer",
+    "target": "triceps"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "sled machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/1425.gif",
+    "id": "1425",
+    "name": "sled 45 degrees one leg press",
+    "target": "glutes"
+  },
+  {
+    "bodyPart": "back",
+    "equipment": "smith machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0746.gif",
+    "id": "0746",
+    "name": "smith back shrug",
+    "target": "traps"
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "stability ball",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2297.gif",
+    "id": "2297",
+    "name": "stability ball crunch (full range hands behind head)",
+    "target": "abs"
+  },
+  {
+    "bodyPart": "cardio",
+    "equipment": "stationary bike",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2138.gif",
+    "id": "2138",
+    "name": "stationary bike run v. 3",
+    "target": "cardiovascular system"
+  },
+  {
+    "bodyPart": "cardio",
+    "equipment": "stepmill machine",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2311.gif",
+    "id": "2311",
+    "name": "walking on stepmill",
+    "target": "cardiovascular system"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "tire",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2459.gif",
+    "id": "2459",
+    "name": "tire flip",
+    "target": "glutes"
+  },
+  {
+    "bodyPart": "upper legs",
+    "equipment": "trap bar",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0811.gif",
+    "id": "0811",
+    "name": "trap bar deadlift",
+    "target": "glutes"
+  },
+  {
+    "bodyPart": "chest",
+    "equipment": "upper body ergometer",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/2139.gif",
+    "id": "2139",
+    "name": "hands bike",
+    "target": "pectorals"
+  },
+  {
+    "bodyPart": "waist",
+    "equipment": "wheel roller",
+    "gifUrl": "http://d205bpvrqc9yn1.cloudfront.net/0796.gif",
+    "id": "0796",
+    "name": "standing wheel rollerout",
+    "target": "abs"
+  }
+]
